@@ -1,0 +1,21 @@
+.button {
+    border: none;
+    color: white;
+    padding: 7px 15px;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: rgb(221, 251, 231); 
+    color: black; 
+    border: 2px solid #4CAF50;
+  }
+  
+  .button:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
